@@ -1,11 +1,16 @@
-##React-App-Weather
+# Titulo del Proyecto
 
-Aplicación para consultar el estado del tiempo en la API de OPENWEATHERMAP implementado en React js.
+React App Weather
 
-##Vistas
+## Descripción
 
-Imagen de Inicio de la Aplicación.
+Aplicación para consultar el estado del tiempo usando la API de OpenWeatherMap implementado React js.
+
+# Imagen de Inicio de la Aplicación.
+
+
 ![Screenshot](Front_2.png)
 
-Imagen de Resultado de la Aplicación.
+# Imagen de Resultado de la Aplicación.
+
 ![Screenshot](Front.png)
